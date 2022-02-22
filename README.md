@@ -1,7 +1,7 @@
 # 大创app
 只是做了个模板
 ## 展示如下图
-![1](./image/par/1.jpg)
+![1](./image/par/1.png)
 ![2](./image/par/2.jpg)
 ![3](./image/par/3.jpg)
 ![4](./image/par/4.jpg)
